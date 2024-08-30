@@ -1,4 +1,4 @@
-# PR-2-
+ PR-2-
 
 #include<stdio.h>
 int main ()
@@ -7,7 +7,7 @@ int main ()
     printf("Please enter your marks: ");
     scanf("%d",&marks);
 
-    if (marks>=90)
+   if (marks>=90)
     {
     printf("Your Grade is A.");
     printf(" Excellent work! ");
@@ -36,6 +36,9 @@ int main ()
     printf("Your Grade is F. ");
     printf("Please try again next time.");
     }
+
+
+
 
 
 return.0;
